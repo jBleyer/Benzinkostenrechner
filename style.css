@@ -1,0 +1,26 @@
+body {
+  background-color: antiquewhite;
+}
+
+label {
+  margin-right: 7.5%;
+}
+
+input {
+  margin-bottom: 2%;
+}
+
+button {
+}
+
+.form_container {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15%;
+}
+
+.output {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5%;
+}
